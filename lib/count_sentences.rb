@@ -18,5 +18,3 @@ class String
 
   end
 end
-
-sentence?
